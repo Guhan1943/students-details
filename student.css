@@ -1,0 +1,65 @@
+
+body{
+    background-color: rgb(227, 222, 222);
+    
+}
+#main{
+    margin: 100px;
+   padding-bottom: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 20px;
+    background-color: rgba(215, 230, 244, 0.867);
+}
+#head1{
+    background-color: rgba(48, 48, 248, 0.885);
+    text-align: center;
+    border-radius: 10px;
+}
+#details{
+    margin: 20px;
+}
+#name{
+    margin: 30px;
+    margin-left: 50px;
+}
+input{
+   float: right;
+   margin-right: 50px;
+   border-radius: 10px;
+   margin-left: 10px;
+   
+}
+input:focus{
+    border: 20px;
+}
+
+input:hover{
+    background-color: rgb(215, 230, 244, 0.867);
+    
+}
+select{
+    float: right;
+    margin-right: 160px;
+    border-radius: 10px;
+}
+select:hover{
+    background-color: rgb(215, 230, 244, 0.867);
+}
+#but{
+    margin-top: 30px;
+    margin-left: 150px;
+    width: 100%;
+    display: flex;
+}
+button{
+   margin: 1px;
+    margin-left: 20px;
+    border-radius: 10px;
+   
+}
+button:hover{
+    color: rgba(48, 48, 248, 0.885);
+    background-color: rgb(215, 230, 244, 0.867);
+}
+
